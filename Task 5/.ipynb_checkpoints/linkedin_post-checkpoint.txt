@@ -1,0 +1,20 @@
+🎓 Excited to share that I have successfully completed my Data Analyst internship at Apex Planet! 🚀
+
+Over the past 2 Months, I worked on a complete end-to-end data analytics project that gave me hands-on experience with real-world data challenges.
+
+📌 What I worked on:
+✔️ Learned to clean and preprocess real-world messy datasets efficiently.
+✔️ Built end-to-end data pipelines from raw data to actionable insights.
+✔️ Developed interactive dashboards for stakeholder reporting.
+✔️ Strengthened collaborative skills using Git version control.
+
+🛠️ Skills I built:
+Python (Pandas, NumPy) | Data Cleaning & EDA | Data Visualization (Matplotlib, Seaborn) | SQL & Database Querying | Dashboard Creation | Statistical Analysis | Git & GitHub
+
+📁 I've consolidated everything into a master portfolio — including all 4 project repositories, a final presentation deck, and a detailed summary of learnings.
+
+👉 Check out my portfolio here: https://github.com/rishu-kumarcse/RishuKumar-DataAnalyst-Internship-Portfolio
+
+This internship has been a turning point in my data analytics journey. I'm grateful for the opportunity and excited to keep growing! 💪
+
+#DataAnalytics #Internship #Python #DataScience #Portfolio #OpenToWork #RishuKumar #DataAnalyst
